@@ -1,4 +1,4 @@
-# Real-time-GPS-tracking-for-Bus-service-in-Amherst
+# Real time GPS tracking for Bus service in Amherst
 
 Introduction
 
