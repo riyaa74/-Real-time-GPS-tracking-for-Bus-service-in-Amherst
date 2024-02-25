@@ -1,0 +1,3 @@
+flask
+pykafka
+confluent-kafka
