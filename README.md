@@ -1,11 +1,11 @@
 # Real-time-GPS-tracking-for-Bus-service-in-Amherst
 
-##Introduction
+Introduction
 
 This project implements a real-time bus tracking system using Apache Kafka. It allows you to track buses in real-time as they move along routes and provides insights into data ingestion and processing rates.
 
 
-##Setup
+Setup
 Follow these steps to set up and run the project:
 
 1. Download and Setup ZooKeeper
@@ -63,7 +63,7 @@ Faster data processing: `consumer_confluent-kafka.py` and `consumer_async-queue.
 Faster data ingestion: `producer_partition.py`, `producer_batch.py`, and `producer_multi.py`
 
 
-##Conclusion
+Conclusion
 
 The project provides a robust real-time bus tracking system using Kafka and offers insights into data ingestion and processing rates. Feel free to explore and optimize various aspects of the system to meet your specific requirements.
 
